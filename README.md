@@ -1,2 +1,1 @@
-# Blank
-A blank repo
+Welcome to a new repo!
